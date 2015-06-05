@@ -20,9 +20,9 @@ Written in [NW.js](http://nwjs.io). Read the source code: [JS](https://github.co
 [Download OS X 64](https://github.com/jayJs/spa-player/raw/master/build/osx64.zip)  
 [Download WIN 32](https://github.com/jayJs/spa-player/raw/master/build/win32.zip)  
 [Download WIN 64](https://github.com/jayJs/spa-player/raw/master/build/win64.zip)  
-Linux version available on request.  
-[Just mark it as issue here](https://github.com/jayJs/spa-player/issues) or you know, just export it yourself :).  
-
+[Download Linux 32](https://github.com/jayJs/spa-player/raw/master/build/linux32.zip)  
+[Download Linux 64](https://github.com/jayJs/spa-player/raw/master/build/linux64.zip)
+  
 ##Licence  
 The MIT License (MIT)  
 
