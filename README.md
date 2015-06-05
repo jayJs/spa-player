@@ -8,10 +8,10 @@ Sort of like MAMP for SPA-s.
 It's hard to set up Single Page Apps for local development without running the server at the same time. And sometimes it's difficult to convince your designer / front-end to run the server.  
 
 ##Solution
-This application here does what MAMP/WAMP does for PHP development.
-1. Starts a simple HTTP server at your selected port which...
-2. ...serves a HTML file of your preference.
-3. Bonus - if you include a code snippet to your site, this helps to automatically refresh the site in browser every time there's a change in code.
+This application here does what MAMP/WAMP does for PHP development.  
+1. Starts a simple HTTP server at your selected port which...  
+2. ...serves a HTML file of your preference.  
+3. Bonus - if you include a code snippet to your site, this helps to automatically refresh the site in browser every time there's a change in code.  
 
 ##Download  
 [OS X 32](https://github.com/jayJs/spa-player/raw/master/build/osx32.zip)  
