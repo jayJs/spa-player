@@ -8,7 +8,7 @@ Sort of like MAMP for SPA-s.
 It's challenging to set up Single Page Apps for local development, if you can't run the server at the same time. The situation occurred for me, if I tried to convince a front-end to (first install and then) run a NodeJS server.  
 
 ##Solution
-This here
+This here  
 1. starts a simple HTTP server at your selected port which...  
 2. ...serves a HTML file of your preference.  
 3. Bonus - if you include a code snippet to your site, this helps to automatically refresh the site in browser every time there's a change in code.  
