@@ -14,11 +14,11 @@ This application here does what MAMP/WAMP does for PHP development.
 3. Bonus - if you include a code snippet to your site, this helps to automatically refresh the site in browser every time there's a change in code.
 
 ##Download  
-[OS X 32](https://github.com/jayJs/spa-player/raw/master/build/osx32.zip)
+[OS X 32](https://github.com/jayJs/spa-player/raw/master/build/osx32.zip)  
 [OS X 64](https://github.com/jayJs/spa-player/raw/master/build/osx64.zip)  
 [WIN 32](https://github.com/jayJs/spa-player/raw/master/build/win32.zip)  
 [WIN 64](https://github.com/jayJs/spa-player/raw/master/build/win64.zip)  
-  
+
 ##Licence  
 The MIT License (MIT)  
 
