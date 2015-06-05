@@ -14,7 +14,7 @@ This here
 3. Bonus - if you include a code snippet to your site, this helps to automatically refresh the site in browser every time there's a change in code.  
 
 ##Download  
-Written with [NW.js](http://nwjs.io)  
+Written in [NW.js](http://nwjs.io)  
 Read the source code: [JS](https://github.com/jayJs/spa-player/blob/master/script.js), [HTML](https://github.com/jayJs/spa-player/blob/master/index.html), [JS](https://github.com/jayJs/spa-player/blob/master/style.css)
 [Download OS X 32](https://github.com/jayJs/spa-player/raw/master/build/osx32.zip)  
 [Download OS X 64](https://github.com/jayJs/spa-player/raw/master/build/osx64.zip)  
